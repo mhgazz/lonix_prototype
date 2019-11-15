@@ -23,7 +23,7 @@ class Properties(object):
         if Properties.__instance == None:
             Properties.__instance = self        
             config = configparser.ConfigParser()
-            config.read('/home/mgazzola/eclipse-workspace/loinx prototype/src/config/application.ini')
+            config.read('/home/mgazzola/eclipse-workspace/lonix_prototype/src/config/application.ini')
             Properties.__propertiesUtil = config
             
     def get(self,env,property):

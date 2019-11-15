@@ -12,12 +12,14 @@ from whoosh.index import create_in
 from whoosh.fields import *
 from whoosh.qparser import QueryParser
 
-sys.path.insert(1, '/home/mgazzola/eclipse-workspace/loinx prototype/src/util')
-sys.path.insert(1, '/home/mgazzola/eclipse-workspace/loinx prototype/src/')
+sys.path.insert(1, '/home/mgazzola/eclipse-workspace/lonix_prototype/src/util')
+sys.path.insert(1, '/home/mgazzola/eclipse-workspace/lonix_prototype/src/')
 from FragmentRecover import FragmentRecover
 from Search import Search
 from Logger import Logger
 from Properties import Properties
+from termcolor import colored, cprint
+
 
 class LoinxCLI(unittest.TestCase):
 
@@ -50,7 +52,6 @@ class LoinxCLI(unittest.TestCase):
                 fr = FragmentRecover()
                 i = 0
                 for result in results:
-                    #fgm = fr.retrieve(result.get_path(), result.get_order())
                     print(str(i) + " | " + result.get_title())
                     i = i + 1 
                 if (i==0):
@@ -58,7 +59,6 @@ class LoinxCLI(unittest.TestCase):
                     ac="N"
                     break
                 print("-----------------")
-                print("(n)ueva busqueda")
         
         
                 print("\n\r")
@@ -72,15 +72,15 @@ class LoinxCLI(unittest.TestCase):
                         int(fg)
                     except ValueError:
                         fg=""
-        
+       
                 print("\n\r")
                 print("\n\r")
                 print('========================================================================')
-                fgm = fr.retrieve(results[int(fg)].get_path(), results[int(fg)].get_order())
-                print(str(i) + " | " + results[int(fg)].get_title())
-                print('fragmento ' + str(fgm.get_order()))
+                fgm = fr.recover(results[int(fg)].get_path(), results[int(fg)].get_order())
+                print(fg + " | " + results[int(fg)].get_title())
+                print('fragmento ' + str(fgm.get_order()) + '   extension chars: ' + str(len(fgm.get_text())))
                 print('------------------------------------------------------------------------')
-                print(fgm.get_text())
+                print(LoinxCLI.format_text(fgm.get_text(),criteria))
                 print('------------------------------------------------------------------------')
                 print('ver (o)tro resultado  (t)exto completo  (n)ueva busqueda  (f)inalizar ')
                 print('========================================================================')
@@ -93,6 +93,19 @@ class LoinxCLI(unittest.TestCase):
                     LoinxCLI.openFile(results[int(fg)].get_path())
                     ac='o'
 
+    
+    @staticmethod
+    def format_text(text,criteria):
+        spttext = text.split(" ")
+        sptcriteria = criteria.lower().split(" ")
+        for w in spttext:
+            if (w.lower() in sptcriteria):
+                w = colored(w, 'red', attrs=['reverse', 'blink'])
+            sys.stdout.write(w)
+            sys.stdout.write(" ")
+            sys.stdout.flush()
+    
+    
     @staticmethod
     def openFile(curfile):
         tokens = curfile.split('/');

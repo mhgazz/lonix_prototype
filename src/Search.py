@@ -8,7 +8,7 @@ import os
 from whoosh.index import create_in
 from whoosh.fields import *
 from whoosh.qparser import QueryParser
-sys.path.insert(1, '/home/mgazzola/eclipse-workspace/loinx prototype/src/util')
+sys.path.insert(1, '/home/mgazzola/eclipse-workspace/lonix_prototype/src/util')
 from Logger import Logger
 from Properties import Properties
 from whoosh.index import open_dir

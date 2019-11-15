@@ -9,6 +9,9 @@ class TextFileReader(AbstractFileReader):
     '''
     implementation for txt plain file
     '''
+    paragraphs = []
+    i = 0
+    t = 0
 
     def __init__(self):
         '''
@@ -17,16 +20,22 @@ class TextFileReader(AbstractFileReader):
     
     def openFile(self, curFile):
         fp = open(curFile,'r', encoding="latin-1")
+        text = fp.readline()
+        self.t = 0
+        while (text):
+            self.paragraphs.append(text)
+            self.t = self.t + 1
+            text = fp.readline()
         return fp
         
     def readNextSegment(self, fp):
-        text = fp.read()
+        text = self.paragraphs[self.i]
+        self.i = self.i + 1
         return text
     
     def closeFile(self,curFile):
-        ''' # '''
-        pass
+        curFile.close()
         
     def readFile(self,curFile):
-        return 1
+        return self.t-1
         

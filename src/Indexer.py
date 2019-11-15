@@ -9,7 +9,7 @@ from whoosh.fields import *
 from whoosh.qparser import QueryParser
 from FileDiscover import FileDiscover
 from ParserProvider import ParserProvider
-sys.path.insert(1, '/home/mgazzola/eclipse-workspace/loinx prototype/src/util')
+sys.path.insert(1, '/home/mgazzola/eclipse-workspace/lonix_prototype/src/util')
 from Logger import Logger
 from Properties import Properties
 
@@ -67,6 +67,10 @@ class Indexer(object):
                     logger.logDebug('---' + text)
                     writer.add_document(title=filetitle, path=curfile, orderno=str(i), content=text)
                 i=i+1
+            reader.closeFile(filepointer)
         writer.commit()
         
-        
+if __name__ == "__main__":
+    #import sys;sys.argv = ['', 'Test.testName']
+    indexer = Indexer()
+    indexer.run()

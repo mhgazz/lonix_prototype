@@ -13,8 +13,11 @@ class TestTextFileReader(unittest.TestCase):
         p = f.openFile('/home/mgazzola/Documents/instructivos/TIPS-BROKER-MQ.txt')
         fr = f.readFile(p)
         text = f.readNextSegment(p)
-        
-        self.assertTrue(fr==1)
+        i=0
+        while(i<fr):
+            text = f.readNextSegment(p)
+            i=i+1
+        self.assertTrue(fr==546)
         self.assertTrue(text!="")
         #print(text)
         

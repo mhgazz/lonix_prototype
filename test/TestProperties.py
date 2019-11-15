@@ -5,7 +5,7 @@ Created on Nov 4, 2019
 '''
 import unittest
 import sys
-sys.path.insert(1, '/home/mgazzola/eclipse-workspace/loinx prototype/src/util')
+sys.path.insert(1, '/home/mgazzola/eclipse-workspace/lonix_prototype/src/util')
 from Properties import Properties
 
 class TestProperties(unittest.TestCase):

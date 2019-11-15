@@ -28,8 +28,7 @@ class DocxFileReader(AbstractFileReader):
         return curParagraph.text
     
     def closeFile(self,curFile):
-        ''' # '''
-        pass
+        curFile = None
         
     def readFile(self,fp):
         return fp.paragraphs.__len__()
