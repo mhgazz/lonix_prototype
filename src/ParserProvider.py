@@ -6,7 +6,7 @@ Created on Nov 4, 2019
 from AbstractFileReader import AbstractFileReader
 from DocxFileReader import DocxFileReader
 from TextFileReader import TextFileReader
-from _ast import Raise
+from PdfFileReader import PdfFileReader
 
 
 class ParserProvider(object):
@@ -28,6 +28,8 @@ class ParserProvider(object):
             afr = DocxFileReader()
         elif (filext.upper()=="TXT"):
             afr = TextFileReader()
+        elif (filext.upper()=="PDF"):
+            afr = PdfFileReader()
         else:
             Exception('spam', 'eggs')
         

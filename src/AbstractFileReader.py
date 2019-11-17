@@ -3,7 +3,6 @@ Created on Oct 28, 2019
 
 @author: root
 '''
-from ansible.module_utils.common import file
 
 class AbstractFileReader(object):
     '''
@@ -24,9 +23,17 @@ class AbstractFileReader(object):
     def readNextSegment(self, curFilePointer):
         '''
         brings the next fragment of the file
-        returns a frangment object
+        returns a fragment object
         '''
         raise NotImplementedError
+
+    def readCertSegment(self, curFilePointer, order):
+        '''
+        brings a certain fragment <<order>> of the file
+        returns a fragment object
+        '''
+        raise NotImplementedError
+
         
     def closeFile(self,curFile):
         '''

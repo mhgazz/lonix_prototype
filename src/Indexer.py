@@ -25,21 +25,22 @@ class Indexer(object):
     def run(self):
         
         logger = Logger.getInstance()
-        logger.logInfo('------------------------------------------')
-        logger.logInfo('-- Starting indexing process      --------')
+        logger.logInfo('---------------------------------------------------')
+        logger.logInfo('----------- Starting indexing process      --------')
         
         props = Properties.getInstance()
         files_path = props.get(self.__environment,'files_path')
         index_path = props.get(self.__environment,'index_path')
         
         logger.logInfo('-- files path: '+ files_path )
-        logger.logInfo('------------------------------------------')
+        logger.logInfo('----------------------------------------------------')
         
-        #discover files
+        #discover files, specify extensions
         filesList = None
         files = FileDiscover()
         files.add_extension('docx')
         files.add_extension('txt')
+        files.add_extension('pdf')
         files.add_localtion(files_path)
         filesList = files.explore()
         
@@ -50,10 +51,11 @@ class Indexer(object):
         # define schema and get a writer for it
         schema = Schema(title=TEXT(stored=True), path=ID(stored=True), orderno=ID(stored=True), content=TEXT)
         ix = create_in(index_path, schema)
-        writer = ix.writer()
+        
         
         # index the content
         for curfile in filesList:
+            writer = ix.writer()
             tokens = curfile.split('/');
             filetitle = tokens[len(tokens)-1]
             logger.logInfo('Indexing file: ' + filetitle)
@@ -64,11 +66,10 @@ class Indexer(object):
             while i<fr:
                 text = reader.readNextSegment(filepointer)
                 if(text!=''):
-                    logger.logDebug('---' + text)
                     writer.add_document(title=filetitle, path=curfile, orderno=str(i), content=text)
                 i=i+1
             reader.closeFile(filepointer)
-        writer.commit()
+            writer.commit()
         
 if __name__ == "__main__":
     #import sys;sys.argv = ['', 'Test.testName']

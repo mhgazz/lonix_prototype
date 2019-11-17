@@ -32,6 +32,10 @@ class TextFileReader(AbstractFileReader):
         text = self.paragraphs[self.i]
         self.i = self.i + 1
         return text
+
+    def readCertSegment(self, fp, order):
+        text = self.paragraphs[order]
+        return text    
     
     def closeFile(self,curFile):
         curFile.close()

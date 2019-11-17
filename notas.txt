@@ -1,3 +1,8 @@
 librerías:
 - Whoosh
 - termcolor
+
+pendientes:
+- agrupar resultados 
+- colocar navegación por los fragmentos
+- mejorar la visualización

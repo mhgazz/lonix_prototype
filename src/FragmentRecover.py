@@ -44,16 +44,15 @@ class FragmentRecover(object):
         order = int(order)        
         tokens = filepath.split('/');
         filetitle = tokens[len(tokens)-1]
-        logger.logInfo('Indexing file: ' + filetitle)
+        logger.logInfo('retrieving from file: ' + filetitle)
         reader = ParserProvider.getParser(filetitle)
         filepointer = reader.openFile(filepath)
         fr = reader.readFile(filepointer)
-        i = 0
+
+        #recover fragment
         fragment = Fragment('',filepath,order,'')
-        while i<fr:
-            text = reader.readNextSegment(filepointer)
-            if(text!=''):
-                if (i==order):
-                    fragment.set_text(text)
-            i=i+1
+        text = reader.readCertSegment(filepointer,order)
+        if(text!=''):
+            fragment.set_text(text)
+        
         return fragment

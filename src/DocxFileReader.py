@@ -27,6 +27,10 @@ class DocxFileReader(AbstractFileReader):
         self.i = self.i + 1
         return curParagraph.text
     
+    def readCertSegment(self, fp, order):
+        curParagraph = fp.paragraphs[order]
+        return curParagraph.text
+    
     def closeFile(self,curFile):
         curFile = None
         

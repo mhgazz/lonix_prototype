@@ -94,11 +94,20 @@ class LoinxCLI(unittest.TestCase):
                     ac='o'
 
     
+    # give format for the output, carriage return, color
     @staticmethod
     def format_text(text,criteria):
         spttext = text.split(" ")
         sptcriteria = criteria.lower().split(" ")
+        l = 0
         for w in spttext:
+            if (w.startswith("\n\n")):
+                w = w.lstrip("\n\n")
+                w = "\n\r" + w
+            if (w.endswith("\n\n")):
+                w = w.rstrip("\n\n")
+                w = w + "\n\r"
+            l = l + len(w + " ")
             if (w.lower() in sptcriteria):
                 w = colored(w, 'red', attrs=['reverse', 'blink'])
             sys.stdout.write(w)
@@ -114,9 +123,11 @@ class LoinxCLI(unittest.TestCase):
         filext = tokens[-1]
         
         if (filext.upper()=="DOCX"):
-            os.system('soffice \"' + curfile + "\" &")
+            os.system('soffice \"' + curfile + '\" &')
         elif (filext.upper()=="TXT"):
-            os.system('gedit \"' + curfile + "\" &")
+            os.system('gedit \"' + curfile + '\" &')
+        elif (filext.upper()=="PDF"):
+            os.system('evince \"' + curfile + '\" &')
         else:
             Exception('spam', 'eggs')
 
