@@ -37,7 +37,7 @@ class Search(object):
         i = 0
         with ix.searcher() as searcher:
             query = QueryParser("content", ix.schema).parse(criteria)
-            results = searcher.search(query,limit=10)
+            results = searcher.search(query,limit=20)
             for result in results:
                  
                 order = result['orderno']

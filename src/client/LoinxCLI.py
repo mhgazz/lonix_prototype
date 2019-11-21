@@ -19,7 +19,7 @@ from Search import Search
 from Logger import Logger
 from Properties import Properties
 from termcolor import colored, cprint
-
+from ParserProvider import ParserProvider
 
 class LoinxCLI(unittest.TestCase):
 
@@ -80,7 +80,7 @@ class LoinxCLI(unittest.TestCase):
                 print(fg + " | " + results[int(fg)].get_title())
                 print('fragmento ' + str(fgm.get_order()) + '   extension chars: ' + str(len(fgm.get_text())))
                 print('------------------------------------------------------------------------')
-                print(LoinxCLI.format_text(fgm.get_text(),criteria))
+                print(LoinxCLI.display_text(fgm.get_text(),criteria,results[int(fg)].get_path()))
                 print('------------------------------------------------------------------------')
                 print('ver (o)tro resultado  (t)exto completo  (n)ueva busqueda  (f)inalizar ')
                 print('========================================================================')
@@ -96,7 +96,9 @@ class LoinxCLI(unittest.TestCase):
     
     # give format for the output, carriage return, color
     @staticmethod
-    def format_text(text,criteria):
+    def display_text(text,criteria,file):
+        
+        """
         spttext = text.split(" ")
         sptcriteria = criteria.lower().split(" ")
         l = 0
@@ -113,6 +115,17 @@ class LoinxCLI(unittest.TestCase):
             sys.stdout.write(w)
             sys.stdout.write(" ")
             sys.stdout.flush()
+        """
+        
+        cleaner = ParserProvider.getCleaner(file)
+        text = cleaner.cleanText(text)
+        formatter = ParserProvider.getFormatter(file)
+        w = formatter.formatText(text,criteria)
+        
+        #print to console
+        sys.stdout.write(w)
+        sys.stdout.write(" ")
+        sys.stdout.flush()
     
     
     @staticmethod

@@ -532,3 +532,292 @@
 2019-11-16 17:44:08,441 - DEBUG - results found: 1
 2019-11-16 17:44:08,443 - INFO - hists: 1
 2019-11-16 17:44:12,109 - INFO - retrieving from file: Pcto Creacion de variables en Datastage (en revisión).docx
+2019-11-17 15:53:32,624 - INFO - ---------------------------------------------------
+2019-11-17 15:53:32,625 - INFO - ----------- Starting indexing process      --------
+2019-11-17 15:53:32,625 - INFO - -- files path: /home/mgazzola/Documents/texttos/textos
+2019-11-17 15:53:32,625 - INFO - ----------------------------------------------------
+2019-11-17 15:53:32,641 - INFO - Indexing file: Textos Hermeticos Gredos Parte1.pdf
+2019-11-17 15:53:37,336 - INFO - Indexing file: Encrucijada-Emociona.pdf
+2019-11-17 15:53:41,880 - INFO - Indexing file: Antologia De Textos Gnosticos Y Hermeticos - Andrés Guijarro.pdf
+2019-11-17 15:54:01,860 - INFO - Indexing file: Yehan_Numata_Pensamientos_budistas_para_la_vida.pdf
+2019-11-17 15:54:05,148 - INFO - Indexing file: El Quinto Acuerdo-Miguel Ruiz.pdf
+2019-11-17 15:54:07,976 - INFO - Indexing file: Manos que Curan.pdf
+2019-11-17 15:54:14,066 - INFO - Indexing file: El Nacimiento Del Cristianismo - Blazquez Martinez Jose Maria.pdf
+2019-11-17 15:54:20,231 - INFO - Indexing file: La comprension de los misterios del Tao - Wen Tzu.pdf
+2019-11-17 15:54:26,030 - INFO - Indexing file: Heller Agnes - El Hombre Del Renacimiento.pdf
+2019-11-17 15:54:38,739 - INFO - Indexing file: Kingsley Charles - Hipatia De Alejandria.pdf
+2019-11-17 15:55:32,386 - INFO - Indexing file: TerapiadeVidasPasadasDrJoseLuisCabouli.pdf
+2019-11-17 15:55:37,231 - INFO - Indexing file: Los Tres Tesoros - Osho.pdf
+2019-11-17 15:55:40,721 - INFO - Indexing file: El tratamiento del Psicópata - Vicente Garrido Genovés.pdf
+2019-11-17 15:55:40,730 - INFO - Indexing file: Terapia Cognitivo Conductual con MINDFULNESS Integrado.pdf
+2019-11-17 15:56:18,205 - INFO - Indexing file: El Poder del Ahora - Tolle Eckhart.pdf
+2019-11-17 15:56:20,820 - INFO - Indexing file: fisonomia_china.pdf
+2019-11-17 15:56:52,782 - INFO - Indexing file: Gerula, Luis - Radiestesia Integral.pdf
+2019-11-17 15:56:58,994 - INFO - Indexing file: Yates Frances - Giordano Bruno.pdf
+2019-11-17 15:56:59,363 - INFO - Indexing file: El placebo eres tu - Libros PDF Gratis.pdf
+2019-11-17 15:57:10,923 - INFO - Indexing file: Guijarro Andres - Antologia De Textos Gnosticos Y Hermeticos.pdf
+2019-11-17 15:57:30,836 - INFO - Indexing file: Cirlot Victoria - El monasterio interior.pdf
+2019-11-17 15:57:30,954 - INFO - Indexing file: EL DHAMMAPADA - Buda.pdf
+2019-11-17 15:57:32,457 - INFO - Indexing file: Fromm Erich - Anatomia de la destructividad humana.pdf
+2019-11-17 15:57:59,007 - INFO - Indexing file: Koanes del Mumonkan.pdf
+2019-11-17 15:58:00,483 - INFO - Indexing file: Fernandez Galiano Dimas - Los Monasterios Paganos.pdf
+2019-11-17 15:58:09,084 - INFO - Indexing file: Transtornos de comportamiento.pdf
+2019-11-17 15:58:11,859 - INFO - Indexing file: ALQUIMIA DEL PENSAMIENTO.pdf
+2019-11-17 15:59:10,766 - INFO -  --------- Initiating CLI ----------
+2019-11-17 15:59:17,896 - INFO - criteria: meditación
+2019-11-17 15:59:17,896 - DEBUG - performing search with criteria: meditación
+2019-11-17 15:59:18,074 - DEBUG - results found: 10
+2019-11-17 15:59:18,075 - INFO - hists: 10
+2019-11-17 15:59:23,059 - INFO - retrieving from file: El placebo eres tu - Libros PDF Gratis.pdf
+2019-11-17 16:00:35,925 - INFO -  --------- Initiating CLI ----------
+2019-11-17 16:00:44,561 - INFO - criteria: inconsciencia
+2019-11-17 16:00:44,561 - DEBUG - performing search with criteria: inconsciencia
+2019-11-17 16:00:44,694 - DEBUG - results found: 20
+2019-11-17 16:00:44,696 - INFO - hists: 20
+2019-11-17 16:01:03,070 - INFO - retrieving from file: El Poder del Ahora - Tolle Eckhart.pdf
+2019-11-17 16:01:09,980 - INFO - hists: 20
+2019-11-17 16:01:16,662 - INFO - retrieving from file: El placebo eres tu - Libros PDF Gratis.pdf
+2019-11-17 16:01:32,126 - INFO - hists: 20
+2019-11-17 16:01:34,251 - INFO - retrieving from file: El Poder del Ahora - Tolle Eckhart.pdf
+2019-11-17 16:01:47,277 - INFO - hists: 20
+2019-11-17 16:02:12,918 - INFO - retrieving from file: El Poder del Ahora - Tolle Eckhart.pdf
+2019-11-17 16:02:43,049 - INFO - criteria: hígado
+2019-11-17 16:02:43,049 - DEBUG - performing search with criteria: hígado
+2019-11-17 16:02:43,124 - DEBUG - results found: 20
+2019-11-17 16:02:43,125 - INFO - hists: 20
+2019-11-17 16:02:51,853 - INFO - retrieving from file: Gerula, Luis - Radiestesia Integral.pdf
+2019-11-17 16:03:06,711 - INFO - hists: 20
+2019-11-17 16:03:10,436 - INFO - retrieving from file: Manos que Curan.pdf
+2019-11-17 16:03:38,120 - INFO - hists: 20
+2019-11-17 16:03:46,927 - INFO - retrieving from file: Encrucijada-Emociona.pdf
+2019-11-17 16:04:15,264 - INFO - hists: 20
+2019-11-17 16:05:27,323 - INFO - retrieving from file: Encrucijada-Emociona.pdf
+2019-11-17 16:05:32,108 - INFO - criteria: transgeneracional
+2019-11-17 16:05:32,108 - DEBUG - performing search with criteria: transgeneracional
+2019-11-17 16:05:32,209 - DEBUG - results found: 0
+2019-11-17 16:05:32,211 - INFO - hists: 0
+2019-11-17 16:05:37,406 - INFO - criteria: psicodrama
+2019-11-17 16:05:37,407 - DEBUG - performing search with criteria: psicodrama
+2019-11-17 16:05:37,466 - DEBUG - results found: 2
+2019-11-17 16:05:37,467 - INFO - hists: 2
+2019-11-17 16:05:39,891 - INFO - retrieving from file: Encrucijada-Emociona.pdf
+2019-11-17 16:05:46,200 - INFO - hists: 2
+2019-11-17 16:05:47,648 - INFO - retrieving from file: Encrucijada-Emociona.pdf
+2019-11-17 16:06:23,591 - INFO - hists: 2
+2019-11-17 16:06:26,922 - INFO - retrieving from file: Encrucijada-Emociona.pdf
+2019-11-17 16:06:32,805 - INFO - criteria: algo
+2019-11-17 16:06:32,805 - DEBUG - performing search with criteria: algo
+2019-11-17 16:06:32,894 - DEBUG - results found: 20
+2019-11-17 16:06:32,896 - INFO - hists: 20
+2019-11-17 16:06:35,380 - INFO - retrieving from file: Los Tres Tesoros - Osho.pdf
+2019-11-17 16:06:53,528 - INFO - criteria: buda
+2019-11-17 16:06:53,528 - DEBUG - performing search with criteria: buda
+2019-11-17 16:06:53,580 - DEBUG - results found: 20
+2019-11-17 16:06:53,581 - INFO - hists: 20
+2019-11-17 16:07:02,055 - INFO - retrieving from file: Koanes del Mumonkan.pdf
+2019-11-17 16:14:30,972 - INFO - ---------------------------------------------------
+2019-11-17 16:14:30,972 - INFO - ----------- Starting indexing process      --------
+2019-11-17 16:14:30,972 - INFO - -- files path: /home/mgazzola/Documents/texttos/textos
+2019-11-17 16:14:30,972 - INFO - ----------------------------------------------------
+2019-11-17 16:14:30,987 - INFO - Indexing file: Textos Hermeticos Gredos Parte1.pdf
+2019-11-17 16:14:35,629 - INFO - Indexing file: Encrucijada-Emociona.pdf
+2019-11-17 16:14:40,120 - INFO - Indexing file: Antologia De Textos Gnosticos Y Hermeticos - Andrés Guijarro.pdf
+2019-11-17 16:14:58,300 - INFO - Indexing file: Yehan_Numata_Pensamientos_budistas_para_la_vida.pdf
+2019-11-17 16:15:01,241 - INFO - Indexing file: El Quinto Acuerdo-Miguel Ruiz.pdf
+2019-11-17 16:15:03,882 - INFO - Indexing file: Manos que Curan.pdf
+2019-11-17 16:15:09,858 - INFO - Indexing file: El Nacimiento Del Cristianismo - Blazquez Martinez Jose Maria.pdf
+2019-11-17 16:15:15,765 - INFO - Indexing file: La comprension de los misterios del Tao - Wen Tzu.pdf
+2019-11-17 16:15:21,915 - INFO - Indexing file: Heller Agnes - El Hombre Del Renacimiento.pdf
+2019-11-17 16:15:35,154 - INFO - Indexing file: Kingsley Charles - Hipatia De Alejandria.pdf
+2019-11-17 16:16:24,263 - INFO - Indexing file: TerapiadeVidasPasadasDrJoseLuisCabouli.pdf
+2019-11-17 16:16:29,219 - INFO - Indexing file: Los Tres Tesoros - Osho.pdf
+2019-11-17 16:16:32,665 - INFO - Indexing file: El tratamiento del Psicópata - Vicente Garrido Genovés.pdf
+2019-11-17 16:16:32,685 - INFO - Indexing file: Terapia Cognitivo Conductual con MINDFULNESS Integrado.pdf
+2019-11-17 16:17:12,213 - INFO - Indexing file: El Poder del Ahora - Tolle Eckhart.pdf
+2019-11-17 16:17:15,049 - INFO - Indexing file: fisonomia_china.pdf
+2019-11-17 16:17:49,889 - INFO - Indexing file: Gerula, Luis - Radiestesia Integral.pdf
+2019-11-17 16:17:56,294 - INFO - Indexing file: Yates Frances - Giordano Bruno.pdf
+2019-11-17 16:17:56,685 - INFO - Indexing file: El placebo eres tu - Libros PDF Gratis.pdf
+2019-11-17 16:18:07,053 - INFO - Indexing file: Guijarro Andres - Antologia De Textos Gnosticos Y Hermeticos.pdf
+2019-11-17 16:18:26,524 - INFO - Indexing file: Cirlot Victoria - El monasterio interior.pdf
+2019-11-17 16:18:26,666 - INFO - Indexing file: EL DHAMMAPADA - Buda.pdf
+2019-11-17 16:18:28,197 - INFO - Indexing file: Fromm Erich - Anatomia de la destructividad humana.pdf
+2019-11-17 16:18:53,803 - INFO - Indexing file: Koanes del Mumonkan.pdf
+2019-11-17 16:18:55,202 - INFO - Indexing file: Fernandez Galiano Dimas - Los Monasterios Paganos.pdf
+2019-11-17 16:19:04,169 - INFO - Indexing file: Transtornos de comportamiento.pdf
+2019-11-17 16:19:06,649 - INFO - Indexing file: ALQUIMIA DEL PENSAMIENTO.pdf
+2019-11-17 16:20:56,109 - INFO - ---------------------------------------------------
+2019-11-17 16:20:56,109 - INFO - ----------- Starting indexing process      --------
+2019-11-17 16:20:56,109 - INFO - -- files path: /home/mgazzola/Documents/texttos
+2019-11-17 16:20:56,109 - INFO - ----------------------------------------------------
+2019-11-17 16:20:56,121 - INFO - Indexing file: El código de la emoción - Bradley Nelson.pdf
+2019-11-17 16:21:07,519 - INFO - Indexing file: mujeres que correncon los lobos.pdf
+2019-11-17 16:21:16,169 - INFO - Indexing file: Hipnoterapia - Erickson Milton H Y Rossi Ernest L.pdf
+2019-11-17 16:21:23,462 - INFO - Indexing file: herramientas-acompañamiento-descodificación-biologica.pdf
+2019-11-17 16:21:27,822 - INFO - Indexing file: Las diosas de cada mujer.pdf
+2019-11-17 16:21:42,273 - INFO - Indexing file: El error de Descartes - Damasiodamasio.pdf
+2019-11-17 16:21:53,063 - INFO - Indexing file: ay mis abuelos - a.Schützenberger.pdf
+2019-11-17 16:22:00,598 - INFO - Indexing file: Liberarse-Del-Destino-Familiar- E. Horowitz.pdf
+2019-11-17 16:22:08,660 - INFO - Indexing file: Psicogenealogia Aplicada- Paola Castillo.pdf
+2019-11-17 16:22:08,724 - INFO - Indexing file: psicogenealogia - jorodowsky.pdf
+2019-11-17 16:22:13,313 - INFO - Indexing file: Vision cuantica del transgeneracional - Enric Corbera.pdf
+2019-11-17 16:22:30,319 - INFO - Indexing file: Recuerdos-Suenos-Pensamientos - autobiografia.pdf
+2019-11-17 16:23:23,135 - INFO - Indexing file: La Psicologia De La Transferencia - Carl Gustav Jung.pdf
+2019-11-17 16:23:23,286 - INFO - Indexing file: arquetipos e inconsciente colectivo-jung.1.pdf.pdf
+2019-11-17 16:23:23,367 - INFO - Indexing file: Libro Rojo - Carl Gustav Jung.pdf
+2019-11-17 16:23:45,045 - INFO - Indexing file: arquetipos e inconsciente colectivo-jung.3.pdf.pdf
+2019-11-17 16:23:45,103 - INFO - Indexing file: El hombre y sus símbolos - jung.pdf
+2019-11-17 16:23:45,261 - INFO - Indexing file: arquetipos e inconsciente colectivo-jung.2.pdf.pdf
+2019-11-17 16:23:45,339 - INFO - Indexing file: ronald-laing-1960-el-yo-dividido.pdf
+2019-11-17 16:23:45,454 - INFO - Indexing file: elclandelosocabernario.jean.auel.pdf
+2019-11-17 16:24:02,449 - INFO - Indexing file: Cuando-todo-se-derrumba.pdf
+2019-11-17 16:24:07,526 - INFO - Indexing file: Psicopatologia de la relacion conyugal - Montoya Triviño.pdf
+2019-11-17 16:24:24,742 - INFO - Indexing file: DICCIONARIOBiodescodificacion.pdf
+2019-11-17 16:24:53,474 - INFO - Indexing file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-17 16:26:33,357 - INFO - Indexing file: Diccionario Bio-Emocional 2016.pdf
+2019-11-17 16:26:58,852 - INFO - Indexing file: PNL - Guia esencial para la Pro - Joseph Boyes-1.pdf
+2019-11-17 16:27:01,088 - INFO - Indexing file: Introduccion-a-La-PNL-OConnor-Joseph.pdf
+2019-11-17 16:27:12,416 - INFO - Indexing file: PNL - 39 Tecnicas, Patrones y E - Steve Allen.pdf
+2019-11-17 16:27:18,919 - INFO - Indexing file: Psicomagia-Jodorowski.pdf
+2019-11-17 16:27:32,662 - INFO - Indexing file: Manual de Psicomagia - Alejandro Jodorowsky.pdf
+2019-11-17 16:27:42,213 - INFO - Indexing file: sistema osteoarticular - salomon sellam.pdf
+2019-11-17 16:27:46,556 - INFO - Indexing file: Psicosomtica clnica de las patologas del seno - salomon sellam.pdf
+2019-11-17 16:27:50,114 - INFO - Indexing file: Principios de Psicosomática Clínica - salomon sellam.pdf
+2019-11-17 16:27:50,401 - INFO - Indexing file: EL SINDROME DEL YACENTE - Salomon Sellam.pdf
+2019-11-17 16:27:50,582 - INFO - Indexing file: La Actitud Negativa o la Alergia a la Felicidad - Salomon Sellam.pdf
+2019-11-17 16:27:50,686 - INFO - Indexing file: Curso Dr Salomn_Transgeneracional -.pdf
+2019-11-17 16:27:56,666 - INFO - Indexing file: Enfermedades de la Piel -  Salomon Sellam.pdf
+2019-11-17 16:28:00,681 - INFO - Indexing file: EL YACIENTE II - Salomon Sellam.pdf
+2019-11-17 16:28:00,858 - INFO - Indexing file: Libro alergias - Salomon sellam.pdf
+2019-11-17 16:28:05,958 - INFO - Indexing file: La Inversion-Psiquica-La-Actitud-Negativa-o-La-Alergia-a-La-Felicidad- Salomon Sellam.pdf
+2019-11-17 16:28:06,016 - INFO - Indexing file: Sobrepeso Obesidad - Dr Salomon Sellam -FB 71.pdf
+2019-11-17 16:28:06,136 - INFO - Indexing file: La Inversion Psiquica - Salomon Sellam.pdf
+2019-11-17 16:28:06,192 - INFO - Indexing file: sobrepeso y obesidad - salomon sellam.pdf
+2019-11-17 16:28:06,301 - INFO - Indexing file: Desordenes-Amorosos-Salomon-Sellam.pdf
+2019-11-17 16:28:08,299 - INFO - Indexing file: CUESTIONARIO MÓDULO 3 Asignación de preguntas.docx
+2019-11-17 16:28:08,407 - INFO - Indexing file: MAPA CONCEPTUAL YACIENTE I1.docx
+2019-11-17 16:28:15,870 - INFO - Indexing file: Primera etapa y conflictos.pdf
+2019-11-17 16:28:16,829 - INFO - Indexing file: MEDICINA-PAtas-arriba.pdf
+2019-11-17 16:28:20,652 - INFO - Indexing file: LIBRO CANCER DE MAMA - HAMMER.pdf
+2019-11-17 16:28:31,753 - INFO - Indexing file: Five Biological Laws - Spanish.pdf
+2019-11-17 16:28:33,348 - INFO - Indexing file: Textos Hermeticos Gredos Parte1.pdf
+2019-11-17 16:28:37,927 - INFO - Indexing file: Encrucijada-Emociona.pdf
+2019-11-17 16:28:42,199 - INFO - Indexing file: Antologia De Textos Gnosticos Y Hermeticos - Andrés Guijarro.pdf
+2019-11-17 16:29:01,542 - INFO - Indexing file: Yehan_Numata_Pensamientos_budistas_para_la_vida.pdf
+2019-11-17 16:29:04,191 - INFO - Indexing file: El Quinto Acuerdo-Miguel Ruiz.pdf
+2019-11-17 16:29:06,636 - INFO - Indexing file: Manos que Curan.pdf
+2019-11-17 16:29:12,517 - INFO - Indexing file: El Nacimiento Del Cristianismo - Blazquez Martinez Jose Maria.pdf
+2019-11-17 16:29:18,285 - INFO - Indexing file: La comprension de los misterios del Tao - Wen Tzu.pdf
+2019-11-17 16:29:39,843 - INFO - Indexing file: Heller Agnes - El Hombre Del Renacimiento.pdf
+2019-11-17 16:29:52,042 - INFO - Indexing file: Kingsley Charles - Hipatia De Alejandria.pdf
+2019-11-17 16:30:43,201 - INFO - Indexing file: TerapiadeVidasPasadasDrJoseLuisCabouli.pdf
+2019-11-17 16:30:47,956 - INFO - Indexing file: Los Tres Tesoros - Osho.pdf
+2019-11-17 16:30:51,591 - INFO - Indexing file: El tratamiento del Psicópata - Vicente Garrido Genovés.pdf
+2019-11-17 16:30:51,612 - INFO - Indexing file: Terapia Cognitivo Conductual con MINDFULNESS Integrado.pdf
+2019-11-17 16:31:29,210 - INFO - Indexing file: El Poder del Ahora - Tolle Eckhart.pdf
+2019-11-17 16:31:31,850 - INFO - Indexing file: fisonomia_china.pdf
+2019-11-17 16:31:55,399 - INFO - Indexing file: Gerula, Luis - Radiestesia Integral.pdf
+2019-11-17 16:32:02,290 - INFO - Indexing file: Yates Frances - Giordano Bruno.pdf
+2019-11-17 16:32:02,656 - INFO - Indexing file: El placebo eres tu - Libros PDF Gratis.pdf
+2019-11-17 16:32:12,937 - INFO - Indexing file: Guijarro Andres - Antologia De Textos Gnosticos Y Hermeticos.pdf
+2019-11-17 16:32:32,890 - INFO - Indexing file: Cirlot Victoria - El monasterio interior.pdf
+2019-11-17 16:32:33,024 - INFO - Indexing file: EL DHAMMAPADA - Buda.pdf
+2019-11-17 16:32:34,558 - INFO - Indexing file: Fromm Erich - Anatomia de la destructividad humana.pdf
+2019-11-17 16:32:59,931 - INFO - Indexing file: Koanes del Mumonkan.pdf
+2019-11-17 16:33:01,457 - INFO - Indexing file: Fernandez Galiano Dimas - Los Monasterios Paganos.pdf
+2019-11-17 16:33:10,280 - INFO - Indexing file: Transtornos de comportamiento.pdf
+2019-11-17 16:33:26,647 - INFO - Indexing file: ALQUIMIA DEL PENSAMIENTO.pdf
+2019-11-17 16:36:53,730 - INFO -  --------- Initiating CLI ----------
+2019-11-17 16:39:32,298 - INFO - criteria: arquitipo héroe
+2019-11-17 16:39:32,298 - DEBUG - performing search with criteria: arquitipo héroe
+2019-11-17 16:39:32,604 - DEBUG - results found: 0
+2019-11-17 16:39:32,606 - INFO - hists: 0
+2019-11-17 16:39:40,098 - INFO - criteria: arquetipo
+2019-11-17 16:39:40,099 - DEBUG - performing search with criteria: arquetipo
+2019-11-17 16:39:40,201 - DEBUG - results found: 20
+2019-11-17 16:39:40,212 - INFO - hists: 20
+2019-11-17 16:40:27,179 - INFO -  --------- Initiating CLI ----------
+2019-11-17 16:40:31,979 - INFO - criteria: hillman
+2019-11-17 16:40:31,979 - DEBUG - performing search with criteria: hillman
+2019-11-17 16:40:32,120 - DEBUG - results found: 3
+2019-11-17 16:40:32,123 - INFO - hists: 3
+2019-11-17 16:40:51,466 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-17 16:41:41,420 - INFO - hists: 3
+2019-11-17 16:42:30,635 - INFO -  --------- Initiating CLI ----------
+2019-11-17 16:42:43,467 - INFO - criteria: víctima
+2019-11-17 16:42:43,467 - DEBUG - performing search with criteria: víctima
+2019-11-17 16:42:43,660 - DEBUG - results found: 20
+2019-11-17 16:42:43,664 - INFO - hists: 20
+2019-11-17 16:43:18,266 - INFO -  --------- Initiating CLI ----------
+2019-11-17 16:47:53,606 - INFO - criteria: 10
+2019-11-17 16:47:53,608 - DEBUG - performing search with criteria: 10
+2019-11-17 16:47:53,916 - DEBUG - results found: 20
+2019-11-17 16:47:53,919 - INFO - hists: 20
+2019-11-17 16:47:58,774 - INFO - retrieving from file: Fernandez Galiano Dimas - Los Monasterios Paganos.pdf
+2019-11-17 16:48:13,551 - INFO - hists: 20
+2019-11-17 16:48:17,607 - INFO - retrieving from file: Manos que Curan.pdf
+2019-11-17 16:48:23,473 - INFO - hists: 20
+2019-11-17 16:48:26,696 - INFO - retrieving from file: Manos que Curan.pdf
+2019-11-17 16:49:59,611 - INFO - criteria: hiperhidrosis
+2019-11-17 16:49:59,611 - DEBUG - performing search with criteria: hiperhidrosis
+2019-11-17 16:49:59,709 - DEBUG - results found: 7
+2019-11-17 16:49:59,713 - INFO - hists: 7
+2019-11-17 16:50:33,244 - INFO - retrieving from file: Enfermedades de la Piel -  Salomon Sellam.pdf
+2019-11-17 16:50:40,979 - INFO - hists: 7
+2019-11-17 16:53:20,771 - INFO - retrieving from file: Enfermedades de la Piel -  Salomon Sellam.pdf
+2019-11-17 16:53:27,137 - INFO - criteria: aunque me cueste la vida
+2019-11-17 16:53:27,137 - DEBUG - performing search with criteria: aunque me cueste la vida
+2019-11-17 16:53:27,258 - DEBUG - results found: 5
+2019-11-17 16:53:27,266 - INFO - hists: 5
+2019-11-17 16:53:42,455 - INFO - retrieving from file: Manos que Curan.pdf
+2019-11-17 17:00:15,711 - INFO - criteria: hiperhidrosis
+2019-11-17 17:00:15,711 - DEBUG - performing search with criteria: hiperhidrosis
+2019-11-17 17:00:15,956 - DEBUG - results found: 7
+2019-11-17 17:00:15,965 - INFO - hists: 7
+2019-11-17 17:00:21,122 - INFO - retrieving from file: Enfermedades de la Piel -  Salomon Sellam.pdf
+2019-11-17 17:07:47,500 - INFO - hists: 7
+2019-11-20 12:24:27,472 - INFO -  --------- Initiating CLI ----------
+2019-11-20 12:24:31,859 - INFO - criteria: marca personal
+2019-11-20 12:24:31,859 - DEBUG - performing search with criteria: marca personal
+2019-11-20 12:24:32,232 - DEBUG - results found: 12
+2019-11-20 12:24:32,235 - INFO - hists: 12
+2019-11-20 12:25:09,461 - INFO - retrieving from file: El error de Descartes - Damasiodamasio.pdf
+2019-11-20 12:25:15,903 - INFO - criteria: marca amor
+2019-11-20 12:25:15,903 - DEBUG - performing search with criteria: marca amor
+2019-11-20 12:25:16,060 - DEBUG - results found: 6
+2019-11-20 12:25:16,075 - INFO - hists: 6
+2019-11-20 21:01:25,504 - INFO -  --------- Initiating CLI ----------
+2019-11-20 21:01:37,229 - INFO - criteria:  terapia
+2019-11-20 21:01:37,229 - DEBUG - performing search with criteria:  terapia
+2019-11-20 21:01:37,809 - DEBUG - results found: 20
+2019-11-20 21:01:37,814 - INFO - hists: 20
+2019-11-20 21:01:41,693 - INFO - retrieving from file: Psicomagia-Jodorowski.pdf
+2019-11-20 21:02:24,926 - INFO -  --------- Initiating CLI ----------
+2019-11-20 21:02:28,408 - INFO - criteria: terapia
+2019-11-20 21:02:28,409 - DEBUG - performing search with criteria: terapia
+2019-11-20 21:02:29,064 - DEBUG - results found: 20
+2019-11-20 21:02:29,071 - INFO - hists: 20
+2019-11-20 21:02:33,129 - INFO - retrieving from file: Psicomagia-Jodorowski.pdf
+2019-11-20 21:04:15,432 - INFO -  --------- Initiating CLI ----------
+2019-11-20 21:04:18,140 - INFO - criteria: terapia
+2019-11-20 21:04:18,140 - DEBUG - performing search with criteria: terapia
+2019-11-20 21:04:18,835 - DEBUG - results found: 20
+2019-11-20 21:04:18,842 - INFO - hists: 20
+2019-11-20 21:04:20,107 - INFO - retrieving from file: Psicomagia-Jodorowski.pdf
+2019-11-20 21:05:09,626 - INFO -  --------- Initiating CLI ----------
+2019-11-20 21:05:13,741 - INFO - criteria: teoria
+2019-11-20 21:05:13,741 - DEBUG - performing search with criteria: teoria
+2019-11-20 21:05:14,289 - DEBUG - results found: 1
+2019-11-20 21:05:14,297 - INFO - hists: 1
+2019-11-20 21:05:16,570 - INFO - retrieving from file: Fromm Erich - Anatomia de la destructividad humana.pdf
+2019-11-20 21:05:29,328 - INFO - hists: 1
+2019-11-20 21:12:41,525 - INFO - retrieving from file: Fromm Erich - Anatomia de la destructividad humana.pdf
+2019-11-20 21:12:49,234 - INFO - criteria: roseau
+2019-11-20 21:12:49,239 - DEBUG - performing search with criteria: roseau
+2019-11-20 21:12:49,858 - DEBUG - results found: 0
+2019-11-20 21:12:49,874 - INFO - hists: 0
+2019-11-20 21:12:55,695 - INFO - criteria: voltaire
+2019-11-20 21:12:55,695 - DEBUG - performing search with criteria: voltaire
+2019-11-20 21:12:55,961 - DEBUG - results found: 1
+2019-11-20 21:12:55,977 - INFO - hists: 1
+2019-11-20 21:12:59,250 - INFO - retrieving from file: Encrucijada-Emociona.pdf
