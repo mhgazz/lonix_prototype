@@ -82,6 +82,9 @@ class LoinxCLI(unittest.TestCase):
                 print('------------------------------------------------------------------------')
                 print(LoinxCLI.display_text(fgm.get_text(),criteria,results[int(fg)].get_path()))
                 print('------------------------------------------------------------------------')
+                print(fg + " | " + results[int(fg)].get_title())
+                print('fragmento ' + str(fgm.get_order()) + '   extension chars: ' + str(len(fgm.get_text())))
+                print('------------------------------------------------------------------------')
                 print('ver (o)tro resultado  (t)exto completo  (n)ueva busqueda  (f)inalizar ')
                 print('========================================================================')
 
@@ -90,7 +93,7 @@ class LoinxCLI(unittest.TestCase):
                     ac = input()
                 
                 if (ac.upper()=='T'):
-                    LoinxCLI.openFile(results[int(fg)].get_path())
+                    LoinxCLI.openFile(results[int(fg)].get_path(),fgm.get_order())
                     ac='o'
 
     
@@ -98,25 +101,7 @@ class LoinxCLI(unittest.TestCase):
     @staticmethod
     def display_text(text,criteria,file):
         
-        """
-        spttext = text.split(" ")
-        sptcriteria = criteria.lower().split(" ")
-        l = 0
-        for w in spttext:
-            if (w.startswith("\n\n")):
-                w = w.lstrip("\n\n")
-                w = "\n\r" + w
-            if (w.endswith("\n\n")):
-                w = w.rstrip("\n\n")
-                w = w + "\n\r"
-            l = l + len(w + " ")
-            if (w.lower() in sptcriteria):
-                w = colored(w, 'red', attrs=['reverse', 'blink'])
-            sys.stdout.write(w)
-            sys.stdout.write(" ")
-            sys.stdout.flush()
-        """
-        
+        #clean and format text
         cleaner = ParserProvider.getCleaner(file)
         text = cleaner.cleanText(text)
         formatter = ParserProvider.getFormatter(file)
@@ -129,7 +114,7 @@ class LoinxCLI(unittest.TestCase):
     
     
     @staticmethod
-    def openFile(curfile):
+    def openFile(curfile,fragment):
         tokens = curfile.split('/');
         filename = tokens[-1]
         tokens = filename.split('.');
@@ -140,7 +125,7 @@ class LoinxCLI(unittest.TestCase):
         elif (filext.upper()=="TXT"):
             os.system('gedit \"' + curfile + '\" &')
         elif (filext.upper()=="PDF"):
-            os.system('evince \"' + curfile + '\" &')
+            os.system('evince --page-label=' + str(fragment) + ' \"' + curfile + '\" &')
         else:
             Exception('spam', 'eggs')
 

@@ -821,3 +821,805 @@
 2019-11-20 21:12:55,961 - DEBUG - results found: 1
 2019-11-20 21:12:55,977 - INFO - hists: 1
 2019-11-20 21:12:59,250 - INFO - retrieving from file: Encrucijada-Emociona.pdf
+2019-11-21 18:54:04,469 - INFO -  --------- Initiating CLI ----------
+2019-11-21 18:54:10,339 - INFO - criteria: especialista
+2019-11-21 18:54:10,340 - DEBUG - performing search with criteria: especialista
+2019-11-21 18:54:10,720 - DEBUG - results found: 20
+2019-11-21 18:54:10,724 - INFO - hists: 20
+2019-11-21 18:54:20,883 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 18:54:28,640 - INFO - hists: 20
+2019-11-21 18:54:32,242 - INFO - retrieving from file: Encrucijada-Emociona.pdf
+2019-11-21 18:55:17,554 - INFO - hists: 20
+2019-11-21 18:55:20,689 - INFO - retrieving from file: Psicomagia-Jodorowski.pdf
+2019-11-21 18:58:18,441 - INFO -  --------- Initiating CLI ----------
+2019-11-21 18:58:23,504 - INFO - criteria: especialista
+2019-11-21 18:58:23,505 - DEBUG - performing search with criteria: especialista
+2019-11-21 18:58:23,854 - DEBUG - results found: 20
+2019-11-21 18:58:23,856 - INFO - hists: 20
+2019-11-21 18:58:45,733 - INFO - retrieving from file: Psicomagia-Jodorowski.pdf
+2019-11-21 20:37:36,231 - INFO -  --------- Initiating CLI ----------
+2019-11-21 20:37:50,418 - INFO - criteria: psique
+2019-11-21 20:37:50,418 - DEBUG - performing search with criteria: psique
+2019-11-21 20:37:50,738 - DEBUG - results found: 20
+2019-11-21 20:37:50,741 - INFO - hists: 20
+2019-11-21 20:37:54,402 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 20:57:28,872 - INFO -  --------- Initiating CLI ----------
+2019-11-21 20:57:34,926 - INFO - criteria: celtas
+2019-11-21 20:57:34,926 - DEBUG - performing search with criteria: celtas
+2019-11-21 20:57:35,306 - DEBUG - results found: 5
+2019-11-21 20:57:35,311 - INFO - hists: 5
+2019-11-21 20:57:38,446 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:07:10,881 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:07:12,708 - INFO - criteria: celtas
+2019-11-21 21:07:12,708 - DEBUG - performing search with criteria: celtas
+2019-11-21 21:07:13,044 - DEBUG - results found: 5
+2019-11-21 21:07:13,047 - INFO - hists: 5
+2019-11-21 21:07:14,629 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:09:01,388 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:09:03,317 - INFO - criteria: celtas
+2019-11-21 21:09:03,318 - DEBUG - performing search with criteria: celtas
+2019-11-21 21:09:03,443 - DEBUG - results found: 5
+2019-11-21 21:09:03,448 - INFO - hists: 5
+2019-11-21 21:09:04,566 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:10:03,971 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:10:05,751 - INFO - criteria: celtas
+2019-11-21 21:10:05,752 - DEBUG - performing search with criteria: celtas
+2019-11-21 21:10:05,879 - DEBUG - results found: 5
+2019-11-21 21:10:05,882 - INFO - hists: 5
+2019-11-21 21:10:06,630 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:10:33,492 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:10:34,662 - INFO - criteria: celtas
+2019-11-21 21:10:34,662 - DEBUG - performing search with criteria: celtas
+2019-11-21 21:10:34,955 - DEBUG - results found: 5
+2019-11-21 21:10:34,957 - INFO - hists: 5
+2019-11-21 21:10:35,910 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:13:29,689 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:13:31,033 - INFO - criteria: celtas
+2019-11-21 21:13:31,033 - DEBUG - performing search with criteria: celtas
+2019-11-21 21:13:31,758 - DEBUG - results found: 5
+2019-11-21 21:13:31,768 - INFO - hists: 5
+2019-11-21 21:13:34,218 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:14:50,101 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:14:52,804 - INFO - criteria: celtas
+2019-11-21 21:14:52,805 - DEBUG - performing search with criteria: celtas
+2019-11-21 21:14:53,477 - DEBUG - results found: 5
+2019-11-21 21:14:53,483 - INFO - hists: 5
+2019-11-21 21:15:08,368 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:18:01,600 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:18:04,827 - INFO - criteria: psique
+2019-11-21 21:18:04,827 - DEBUG - performing search with criteria: psique
+2019-11-21 21:18:05,430 - DEBUG - results found: 20
+2019-11-21 21:18:05,438 - INFO - hists: 20
+2019-11-21 21:18:08,731 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:18:35,621 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:18:41,923 - INFO - criteria: psique
+2019-11-21 21:18:41,924 - DEBUG - performing search with criteria: psique
+2019-11-21 21:18:42,614 - DEBUG - results found: 20
+2019-11-21 21:18:42,620 - INFO - hists: 20
+2019-11-21 21:18:46,359 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:20:25,781 - INFO - hists: 20
+2019-11-21 21:20:28,432 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:23:03,801 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:23:12,238 - INFO - criteria: psique
+2019-11-21 21:23:12,238 - DEBUG - performing search with criteria: psique
+2019-11-21 21:23:12,840 - DEBUG - results found: 20
+2019-11-21 21:23:12,849 - INFO - hists: 20
+2019-11-21 21:23:15,486 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:23:49,530 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:23:51,441 - INFO - criteria: psique
+2019-11-21 21:23:51,442 - DEBUG - performing search with criteria: psique
+2019-11-21 21:23:51,971 - DEBUG - results found: 20
+2019-11-21 21:23:51,980 - INFO - hists: 20
+2019-11-21 21:23:53,263 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:47:03,838 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:47:05,789 - INFO - criteria: psique
+2019-11-21 21:47:05,789 - DEBUG - performing search with criteria: psique
+2019-11-21 21:47:06,116 - DEBUG - results found: 20
+2019-11-21 21:47:06,119 - INFO - hists: 20
+2019-11-21 21:47:07,090 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:47:35,699 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:47:37,086 - INFO - criteria: psique
+2019-11-21 21:47:37,086 - DEBUG - performing search with criteria: psique
+2019-11-21 21:47:37,377 - DEBUG - results found: 20
+2019-11-21 21:47:37,382 - INFO - hists: 20
+2019-11-21 21:47:38,589 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-21 21:48:15,278 - INFO - criteria: cerebro
+2019-11-21 21:48:15,278 - DEBUG - performing search with criteria: cerebro
+2019-11-21 21:48:15,408 - DEBUG - results found: 20
+2019-11-21 21:48:15,417 - INFO - hists: 20
+2019-11-21 21:48:18,703 - INFO - retrieving from file: Five Biological Laws - Spanish.pdf
+2019-11-21 21:48:31,620 - INFO -  --------- Initiating CLI ----------
+2019-11-21 21:48:35,406 - INFO - criteria: cerebro
+2019-11-21 21:48:35,406 - DEBUG - performing search with criteria: cerebro
+2019-11-21 21:48:35,535 - DEBUG - results found: 20
+2019-11-21 21:48:35,538 - INFO - hists: 20
+2019-11-21 21:48:38,830 - INFO - retrieving from file: El error de Descartes - Damasiodamasio.pdf
+2019-11-22 17:25:25,558 - INFO -  --------- Initiating CLI ----------
+2019-11-22 17:25:26,903 - INFO - criteria: Dios
+2019-11-22 17:25:26,903 - DEBUG - performing search with criteria: Dios
+2019-11-22 17:25:27,259 - DEBUG - results found: 20
+2019-11-22 17:25:27,262 - INFO - hists: 20
+2019-11-22 17:26:15,403 - INFO - retrieving from file: Recuerdos-Suenos-Pensamientos - autobiografia.pdf
+2019-11-22 18:34:42,633 - INFO - criteria: docy
+2019-11-22 18:34:42,655 - DEBUG - performing search with criteria: docy
+2019-11-22 18:34:43,074 - DEBUG - results found: 0
+2019-11-22 18:34:43,080 - INFO - hists: 0
+2019-11-22 18:34:46,306 - INFO - criteria: truco
+2019-11-22 18:34:46,306 - DEBUG - performing search with criteria: truco
+2019-11-22 18:34:46,437 - DEBUG - results found: 20
+2019-11-22 18:34:46,449 - INFO - hists: 20
+2019-11-22 18:35:30,150 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 18:40:32,895 - INFO -  --------- Initiating CLI ----------
+2019-11-22 18:40:34,310 - INFO - criteria: truco
+2019-11-22 18:40:34,311 - DEBUG - performing search with criteria: truco
+2019-11-22 18:40:34,644 - DEBUG - results found: 20
+2019-11-22 18:40:34,647 - INFO - hists: 20
+2019-11-22 18:40:35,782 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 18:41:12,315 - INFO -  --------- Initiating CLI ----------
+2019-11-22 18:41:13,846 - INFO - criteria: truco
+2019-11-22 18:41:13,846 - DEBUG - performing search with criteria: truco
+2019-11-22 18:41:14,254 - DEBUG - results found: 20
+2019-11-22 18:41:14,256 - INFO - hists: 20
+2019-11-22 18:41:15,302 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 19:12:05,350 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:12:08,721 - INFO - criteria: truco
+2019-11-22 19:12:08,722 - DEBUG - performing search with criteria: truco
+2019-11-22 19:12:09,120 - DEBUG - results found: 20
+2019-11-22 19:12:09,121 - INFO - hists: 20
+2019-11-22 19:12:12,011 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 19:16:31,045 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:16:32,779 - INFO - criteria: truco
+2019-11-22 19:16:32,779 - DEBUG - performing search with criteria: truco
+2019-11-22 19:16:33,118 - DEBUG - results found: 20
+2019-11-22 19:16:33,122 - INFO - hists: 20
+2019-11-22 19:16:33,996 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 19:32:54,240 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:33:01,497 - INFO - criteria: truco
+2019-11-22 19:33:01,497 - DEBUG - performing search with criteria: truco
+2019-11-22 19:33:01,893 - DEBUG - results found: 20
+2019-11-22 19:33:01,897 - INFO - hists: 20
+2019-11-22 19:33:03,400 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 19:34:35,414 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:34:43,398 - INFO - criteria: truco
+2019-11-22 19:34:43,399 - DEBUG - performing search with criteria: truco
+2019-11-22 19:34:43,798 - DEBUG - results found: 20
+2019-11-22 19:34:43,801 - INFO - hists: 20
+2019-11-22 19:34:45,303 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 19:35:41,523 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:35:44,279 - INFO - criteria: truco
+2019-11-22 19:35:44,279 - DEBUG - performing search with criteria: truco
+2019-11-22 19:35:44,494 - DEBUG - results found: 20
+2019-11-22 19:35:44,498 - INFO - hists: 20
+2019-11-22 19:35:45,351 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 19:37:48,569 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:37:50,056 - INFO - criteria: truco
+2019-11-22 19:37:50,057 - DEBUG - performing search with criteria: truco
+2019-11-22 19:37:50,278 - DEBUG - results found: 20
+2019-11-22 19:37:50,281 - INFO - hists: 20
+2019-11-22 19:37:51,161 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 19:37:59,161 - INFO - hists: 20
+2019-11-22 19:38:01,624 - INFO - retrieving from file: sistema osteoarticular - salomon sellam.pdf
+2019-11-22 19:38:49,782 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:38:51,646 - INFO - criteria: truco
+2019-11-22 19:38:51,647 - DEBUG - performing search with criteria: truco
+2019-11-22 19:38:51,877 - DEBUG - results found: 20
+2019-11-22 19:38:51,880 - INFO - hists: 20
+2019-11-22 19:38:53,643 - INFO - retrieving from file: sistema osteoarticular - salomon sellam.pdf
+2019-11-22 19:49:10,316 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:49:12,079 - INFO - criteria: truco
+2019-11-22 19:49:12,080 - DEBUG - performing search with criteria: truco
+2019-11-22 19:49:12,621 - DEBUG - results found: 20
+2019-11-22 19:49:12,630 - INFO - hists: 20
+2019-11-22 19:49:13,792 - INFO - retrieving from file: sistema osteoarticular - salomon sellam.pdf
+2019-11-22 19:50:36,985 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:50:41,042 - INFO - criteria: truco
+2019-11-22 19:50:41,042 - DEBUG - performing search with criteria: truco
+2019-11-22 19:50:41,571 - DEBUG - results found: 20
+2019-11-22 19:50:41,580 - INFO - hists: 20
+2019-11-22 19:50:42,304 - INFO - retrieving from file: sistema osteoarticular - salomon sellam.pdf
+2019-11-22 19:51:17,090 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:51:19,937 - INFO - criteria: truco
+2019-11-22 19:51:19,937 - DEBUG - performing search with criteria: truco
+2019-11-22 19:51:20,151 - DEBUG - results found: 20
+2019-11-22 19:51:20,155 - INFO - hists: 20
+2019-11-22 19:51:21,425 - INFO - retrieving from file: sistema osteoarticular - salomon sellam.pdf
+2019-11-22 19:51:36,774 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:51:38,949 - INFO - criteria: truco
+2019-11-22 19:51:38,949 - DEBUG - performing search with criteria: truco
+2019-11-22 19:51:39,132 - DEBUG - results found: 20
+2019-11-22 19:51:39,136 - INFO - hists: 20
+2019-11-22 19:51:39,666 - INFO - retrieving from file: sistema osteoarticular - salomon sellam.pdf
+2019-11-22 19:52:58,999 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:53:01,239 - INFO - criteria: truco
+2019-11-22 19:53:01,240 - DEBUG - performing search with criteria: truco
+2019-11-22 19:53:01,612 - DEBUG - results found: 20
+2019-11-22 19:53:01,616 - INFO - hists: 20
+2019-11-22 19:53:02,396 - INFO - retrieving from file: sistema osteoarticular - salomon sellam.pdf
+2019-11-22 19:54:40,228 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:54:41,620 - INFO - criteria: truco
+2019-11-22 19:54:41,621 - DEBUG - performing search with criteria: truco
+2019-11-22 19:54:42,029 - DEBUG - results found: 20
+2019-11-22 19:54:42,035 - INFO - hists: 20
+2019-11-22 19:54:43,285 - INFO - retrieving from file: sistema osteoarticular - salomon sellam.pdf
+2019-11-22 19:54:50,867 - INFO - criteria: 14
+2019-11-22 19:54:50,867 - DEBUG - performing search with criteria: 14
+2019-11-22 19:54:51,036 - DEBUG - results found: 20
+2019-11-22 19:54:51,052 - INFO - hists: 20
+2019-11-22 19:54:53,699 - INFO - retrieving from file: Diccionario Bio-Emocional 2016.pdf
+2019-11-22 19:55:11,140 - INFO - hists: 20
+2019-11-22 19:55:19,640 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:55:21,299 - INFO - criteria: truco
+2019-11-22 19:55:21,299 - DEBUG - performing search with criteria: truco
+2019-11-22 19:55:21,530 - DEBUG - results found: 20
+2019-11-22 19:55:21,536 - INFO - hists: 20
+2019-11-22 19:55:24,500 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 19:55:53,673 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:55:58,392 - INFO - criteria: truco
+2019-11-22 19:55:58,393 - DEBUG - performing search with criteria: truco
+2019-11-22 19:55:58,817 - DEBUG - results found: 20
+2019-11-22 19:55:58,824 - INFO - hists: 20
+2019-11-22 19:56:00,326 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 19:58:02,068 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:58:03,814 - INFO - criteria: 15
+2019-11-22 19:58:03,815 - DEBUG - performing search with criteria: 15
+2019-11-22 19:58:04,314 - DEBUG - results found: 20
+2019-11-22 19:58:04,319 - INFO - hists: 20
+2019-11-22 19:58:08,166 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:58:10,342 - INFO - criteria: truco
+2019-11-22 19:58:10,343 - DEBUG - performing search with criteria: truco
+2019-11-22 19:58:10,534 - DEBUG - results found: 20
+2019-11-22 19:58:10,544 - INFO - hists: 20
+2019-11-22 19:58:11,877 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 19:58:38,132 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:58:42,090 - INFO - criteria: truco
+2019-11-22 19:58:42,091 - DEBUG - performing search with criteria: truco
+2019-11-22 19:58:42,372 - DEBUG - results found: 20
+2019-11-22 19:58:42,381 - INFO - hists: 20
+2019-11-22 19:58:44,168 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 19:59:36,125 - INFO -  --------- Initiating CLI ----------
+2019-11-22 19:59:42,806 - INFO - criteria: truco
+2019-11-22 19:59:42,807 - DEBUG - performing search with criteria: truco
+2019-11-22 19:59:43,264 - DEBUG - results found: 20
+2019-11-22 19:59:43,269 - INFO - hists: 20
+2019-11-22 19:59:50,262 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 20:00:00,070 - INFO - hists: 20
+2019-11-22 20:00:02,391 - INFO - retrieving from file: sistema osteoarticular - salomon sellam.pdf
+2019-11-22 20:01:14,935 - INFO - hists: 20
+2019-11-22 20:01:18,599 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 20:01:38,946 - INFO -  --------- Initiating CLI ----------
+2019-11-22 20:01:42,169 - INFO - criteria: truco
+2019-11-22 20:01:42,169 - DEBUG - performing search with criteria: truco
+2019-11-22 20:01:42,585 - DEBUG - results found: 20
+2019-11-22 20:01:42,589 - INFO - hists: 20
+2019-11-22 20:01:44,185 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 20:16:22,733 - INFO -  --------- Initiating CLI ----------
+2019-11-22 20:16:26,564 - INFO - criteria: truco
+2019-11-22 20:16:26,565 - DEBUG - performing search with criteria: truco
+2019-11-22 20:16:27,053 - DEBUG - results found: 20
+2019-11-22 20:16:27,056 - INFO - hists: 20
+2019-11-22 20:16:29,848 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 20:23:58,601 - INFO -  --------- Initiating CLI ----------
+2019-11-22 20:23:59,605 - INFO - criteria: truco
+2019-11-22 20:23:59,605 - DEBUG - performing search with criteria: truco
+2019-11-22 20:24:00,292 - DEBUG - results found: 20
+2019-11-22 20:24:00,295 - INFO - hists: 20
+2019-11-22 20:24:01,733 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 20:24:13,334 - INFO - hists: 20
+2019-11-22 20:24:14,389 - INFO - retrieving from file: sistema osteoarticular - salomon sellam.pdf
+2019-11-22 20:24:25,109 - INFO - hists: 20
+2019-11-22 20:24:27,061 - INFO - retrieving from file: Los Tres Tesoros - Osho.pdf
+2019-11-22 20:28:23,964 - INFO -  --------- Initiating CLI ----------
+2019-11-22 20:28:25,209 - INFO - criteria: truco
+2019-11-22 20:28:25,210 - DEBUG - performing search with criteria: truco
+2019-11-22 20:28:25,584 - DEBUG - results found: 20
+2019-11-22 20:28:25,586 - INFO - hists: 20
+2019-11-22 20:28:26,811 - INFO - retrieving from file: sistema osteoarticular - salomon sellam.pdf
+2019-11-22 20:28:33,463 - INFO - hists: 20
+2019-11-22 20:28:36,360 - INFO - retrieving from file: Diccionario - Enfermedades & Emociones.pdf
+2019-11-22 20:28:49,896 - INFO - hists: 20
+2019-11-22 20:28:53,370 - INFO - retrieving from file: Hipnoterapia - Erickson Milton H Y Rossi Ernest L.pdf
+2019-11-22 20:34:57,387 - INFO - criteria: mexico
+2019-11-22 20:34:57,392 - DEBUG - performing search with criteria: mexico
+2019-11-22 20:34:57,664 - DEBUG - results found: 2
+2019-11-22 20:34:57,668 - INFO - hists: 2
+2019-11-22 20:35:02,764 - INFO - retrieving from file: Yehan_Numata_Pensamientos_budistas_para_la_vida.pdf
+2019-11-22 20:35:08,603 - INFO - criteria: argentina
+2019-11-22 20:35:08,604 - DEBUG - performing search with criteria: argentina
+2019-11-22 20:35:08,729 - DEBUG - results found: 18
+2019-11-22 20:35:08,737 - INFO - hists: 18
+2019-11-22 20:35:11,180 - INFO - retrieving from file: El Poder del Ahora - Tolle Eckhart.pdf
+2019-11-22 20:35:37,276 - INFO - criteria: rosario
+2019-11-22 20:35:37,276 - DEBUG - performing search with criteria: rosario
+2019-11-22 20:35:37,387 - DEBUG - results found: 8
+2019-11-22 20:35:37,389 - INFO - hists: 8
+2019-11-22 20:35:41,820 - INFO - retrieving from file: Manos que Curan.pdf
+2019-11-22 20:36:40,438 - INFO -  --------- Initiating CLI ----------
+2019-11-22 20:36:41,788 - INFO - criteria: rosario
+2019-11-22 20:36:41,789 - DEBUG - performing search with criteria: rosario
+2019-11-22 20:36:42,127 - DEBUG - results found: 8
+2019-11-22 20:36:42,130 - INFO - hists: 8
+2019-11-22 20:36:46,429 - INFO - retrieving from file: Manos que Curan.pdf
+2019-11-22 20:37:21,932 - INFO -  --------- Initiating CLI ----------
+2019-11-22 20:37:24,365 - INFO - criteria: Rosario
+2019-11-22 20:37:24,365 - DEBUG - performing search with criteria: Rosario
+2019-11-22 20:37:24,509 - DEBUG - results found: 8
+2019-11-22 20:37:24,513 - INFO - hists: 8
+2019-11-22 20:37:27,022 - INFO - retrieving from file: Manos que Curan.pdf
+2019-11-22 20:38:10,845 - INFO - criteria: frijol
+2019-11-22 20:38:10,845 - DEBUG - performing search with criteria: frijol
+2019-11-22 20:38:10,947 - DEBUG - results found: 0
+2019-11-22 20:38:10,950 - INFO - hists: 0
+2019-11-22 20:38:15,582 - INFO - criteria: fríjol
+2019-11-22 20:38:15,582 - DEBUG - performing search with criteria: fríjol
+2019-11-22 20:38:15,701 - DEBUG - results found: 0
+2019-11-22 20:38:15,704 - INFO - hists: 0
+2019-11-22 20:38:22,381 - INFO - criteria: venecia
+2019-11-22 20:38:22,382 - DEBUG - performing search with criteria: venecia
+2019-11-22 20:38:22,490 - DEBUG - results found: 3
+2019-11-22 20:38:22,498 - INFO - hists: 3
+2019-11-22 20:38:25,550 - INFO - retrieving from file: Liberarse-Del-Destino-Familiar- E. Horowitz.pdf
+2019-11-22 20:39:17,936 - INFO - criteria: inerme
+2019-11-22 20:39:17,937 - DEBUG - performing search with criteria: inerme
+2019-11-22 20:39:18,078 - DEBUG - results found: 1
+2019-11-22 20:39:18,082 - INFO - hists: 1
+2019-11-22 20:39:20,158 - INFO - retrieving from file: Fromm Erich - Anatomia de la destructividad humana.pdf
+2019-11-22 20:43:18,283 - INFO -  --------- Initiating CLI ----------
+2019-11-22 20:43:21,120 - INFO - criteria: rosario
+2019-11-22 20:43:21,120 - DEBUG - performing search with criteria: rosario
+2019-11-22 20:43:21,494 - DEBUG - results found: 8
+2019-11-22 20:43:21,497 - INFO - hists: 8
+2019-11-22 20:43:24,770 - INFO - retrieving from file: Manos que Curan.pdf
+2019-11-22 20:44:06,786 - INFO -  --------- Initiating CLI ----------
+2019-11-22 20:44:10,659 - INFO - criteria: rosario
+2019-11-22 20:44:10,660 - DEBUG - performing search with criteria: rosario
+2019-11-22 20:44:10,959 - DEBUG - results found: 8
+2019-11-22 20:44:10,962 - INFO - hists: 8
+2019-11-22 20:44:48,131 - INFO - retrieving from file: Manos que Curan.pdf
+2019-11-22 20:47:07,391 - INFO -  --------- Initiating CLI ----------
+2019-11-22 20:47:09,587 - INFO - criteria: rosario
+2019-11-22 20:47:09,587 - DEBUG - performing search with criteria: rosario
+2019-11-22 20:47:09,884 - DEBUG - results found: 8
+2019-11-22 20:47:09,888 - INFO - hists: 8
+2019-11-22 20:47:11,795 - INFO - retrieving from file: Manos que Curan.pdf
+2019-11-22 20:47:31,678 - INFO -  --------- Initiating CLI ----------
+2019-11-22 20:47:35,528 - INFO - criteria: rosario
+2019-11-22 20:47:35,529 - DEBUG - performing search with criteria: rosario
+2019-11-22 20:47:35,720 - DEBUG - results found: 8
+2019-11-22 20:47:35,723 - INFO - hists: 8
+2019-11-22 20:47:42,100 - INFO - retrieving from file: Manos que Curan.pdf
+2019-11-22 20:49:21,630 - INFO -  --------- Initiating CLI ----------
+2019-11-22 20:49:23,572 - INFO - criteria: rosario
+2019-11-22 20:49:23,572 - DEBUG - performing search with criteria: rosario
+2019-11-22 20:49:23,832 - DEBUG - results found: 8
+2019-11-22 20:49:23,836 - INFO - hists: 8
+2019-11-22 20:49:25,188 - INFO - retrieving from file: Manos que Curan.pdf
+2019-11-22 20:49:41,636 - INFO - hists: 8
+2019-11-22 20:49:43,956 - INFO - retrieving from file: El Poder del Ahora - Tolle Eckhart.pdf
+2019-11-22 20:50:10,974 - INFO - criteria: psique fuerza
+2019-11-22 20:50:10,974 - DEBUG - performing search with criteria: psique fuerza
+2019-11-22 20:50:11,402 - DEBUG - results found: 20
+2019-11-22 20:50:11,423 - INFO - hists: 20
+2019-11-22 20:50:14,117 - INFO - retrieving from file: mujeres que correncon los lobos.pdf
+2019-11-22 20:57:26,708 - INFO -  --------- Initiating CLI ----------
+2019-11-22 20:57:29,018 - INFO - criteria: wesex
+2019-11-22 20:57:29,019 - DEBUG - performing search with criteria: wesex
+2019-11-22 20:57:29,365 - DEBUG - results found: 0
+2019-11-22 20:57:29,368 - INFO - hists: 0
+2019-11-22 20:57:32,409 - INFO - criteria: essex
+2019-11-22 20:57:32,409 - DEBUG - performing search with criteria: essex
+2019-11-22 20:57:32,561 - DEBUG - results found: 0
+2019-11-22 20:57:32,565 - INFO - hists: 0
+2019-11-22 20:57:34,697 - INFO - criteria: pepa
+2019-11-22 20:57:34,697 - DEBUG - performing search with criteria: pepa
+2019-11-22 20:57:34,801 - DEBUG - results found: 0
+2019-11-22 20:57:34,805 - INFO - hists: 0
+2019-11-22 20:57:37,337 - INFO - criteria: trucha
+2019-11-22 20:57:37,337 - DEBUG - performing search with criteria: trucha
+2019-11-22 20:57:37,449 - DEBUG - results found: 0
+2019-11-22 20:57:37,452 - INFO - hists: 0
+2019-11-22 20:57:39,274 - INFO - criteria: truco
+2019-11-22 20:57:39,275 - DEBUG - performing search with criteria: truco
+2019-11-22 20:57:39,411 - DEBUG - results found: 20
+2019-11-22 20:57:39,415 - INFO - hists: 20
+2019-11-22 20:57:40,427 - INFO - retrieving from file: El código de la emoción - Bradley Nelson.pdf
+2019-11-22 21:00:06,820 - INFO - ---------------------------------------------------
+2019-11-22 21:00:06,821 - INFO - ----------- Starting indexing process      --------
+2019-11-22 21:00:06,821 - INFO - -- files path: /home/mgazzola/Documents/instructivos
+2019-11-22 21:00:06,821 - INFO - ----------------------------------------------------
+2019-11-22 21:00:06,864 - INFO - Indexing file: MANUAL DE OPERACIONES WSRR v.1.docx
+2019-11-22 21:00:06,940 - INFO - Indexing file: Microservices from Theory to practice - ibm cloud .pdf
+2019-11-22 21:00:11,778 - INFO - Indexing file: Maximizing Java Performance on AIX- Part 5- References and Conclusion.pdf
+2019-11-22 21:00:34,184 - INFO - Indexing file: Deployment Policies in WebSphere DataPower.pdf
+2019-11-22 21:00:34,508 - INFO - Indexing file: HOJA DE DATOS_WSP_RIN_ARGS(1).docx
+2019-11-22 21:00:34,525 - INFO - Indexing file: Maximizing Java performance on AIX- Part 2- The need for speed.pdf
+2019-11-22 21:01:09,260 - INFO - Indexing file: Tips Aristi.txt
+2019-11-22 21:01:09,391 - INFO - Indexing file: PTR_continuidad_banismo_v2.docx
+2019-11-22 21:01:09,521 - INFO - Indexing file: IBM i overview and concepts.pdf
+2019-11-22 21:01:10,418 - INFO - Indexing file: PTR_continuidad_banismo(1).docx
+2019-11-22 21:01:10,509 - INFO - Indexing file: TIPS-BROKER-MQ.txt
+2019-11-22 21:01:10,793 - INFO - Indexing file: Reinicio de Intermedia.docx
+2019-11-22 21:01:10,823 - INFO - Indexing file: mq ssl.pdf
+2019-11-22 21:01:14,080 - INFO - Indexing file: PTR_ACT - LDAP - Subir servicios WAS sbbanbld01v .docx
+2019-11-22 21:01:16,213 - INFO - Indexing file: Java Keytool Commands.pdf
+2019-11-22 21:01:16,314 - INFO - Indexing file: WebSphere MessageBroker Basics.pdf
+2019-11-22 21:01:23,321 - INFO - Indexing file: Bibliotecas Compartidas.docx
+2019-11-22 21:01:23,393 - INFO - Indexing file: Archivos_Configuracion_y_Log.docx
+2019-11-22 21:01:23,450 - INFO - Indexing file: kmquserguide700.pdf
+2019-11-22 21:01:35,120 - INFO - Indexing file: MANUAL_INSTALACION_REGISTRY75 .pdf
+2019-11-22 21:01:35,748 - INFO - Indexing file: Diseño Areas Infraestructura SVP.docx
+2019-11-22 21:01:35,867 - INFO - Indexing file: SAS ALM REINICIO SERVICIOS AML APP - PRODUCCION.txt
+2019-11-22 21:01:35,985 - INFO - Indexing file: Pcto Creacion de variables en Datastage (en revisión).docx
+2019-11-22 21:01:36,286 - INFO - Indexing file: INSTRUCTIVO PARA REINICIOS DE WPS.pdf
+2019-11-22 21:01:36,457 - INFO - Indexing file: WebSphere MQ Primer.pdf
+2019-11-22 21:01:38,465 - INFO - Indexing file: message broker basics v6.pdf
+2019-11-22 21:01:45,140 - INFO - Indexing file: IBM i _WorkManagement.pdf
+2019-11-22 21:01:50,707 - INFO - Indexing file: Datos ECM - Arquitectura PSeries.docx
+2019-11-22 21:01:50,795 - INFO - Indexing file: IBM TransferSkills Presentation WAS8.5.pdf
+2019-11-22 21:01:51,401 - INFO - Indexing file: Datos ECM - Arquitectura Windows.docx
+2019-11-22 21:01:51,412 - INFO - Indexing file: INSTRUCTIVO PARA REINICIOS DE WBM.pdf
+2019-11-22 21:01:51,546 - INFO - Indexing file: WSTE.2012.12.04.Travis.Holtzhauser.Top.Five.Performance.Topics.pdf
+2019-11-22 21:01:52,669 - INFO - Indexing file: WebSphere_IO_Performance.pdf
+2019-11-22 21:01:54,883 - INFO - Indexing file: INSTRUCTIVO PARA REVISION DE ERRORES EN WPS - WBM.pdf
+2019-11-22 21:01:55,355 - INFO - Indexing file: Pasos Instalacion TLSv1-2 RSA.docx
+2019-11-22 21:01:55,384 - INFO - Indexing file: EJECUCIÓN DE OC.pdf
+2019-11-22 21:01:55,764 - INFO - Indexing file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:01:56,079 - INFO - Indexing file: broker.pdf
+2019-11-22 21:02:03,163 - INFO - Indexing file: websphere mq primer.pdf
+2019-11-22 21:02:05,191 - INFO - Indexing file: MQClusterBancolombia.pdf
+2019-11-22 21:02:05,255 - INFO - Indexing file: S12606 Clustering.pdf
+2019-11-22 21:02:21,050 - INFO - Indexing file: log file eliminado en active Error al subir el Gestor PCOLQMGRHIP01.pdf
+2019-11-22 21:02:21,126 - INFO - Indexing file: Procedimiento Revisar Errores MQ y Broker.pdf
+2019-11-22 21:02:21,582 - INFO - Indexing file: Configuración Activation specifications.docx
+2019-11-22 21:02:21,647 - INFO - Indexing file: aix tunning.pdf
+2019-11-22 21:02:38,296 - INFO - Indexing file: test.docx
+2019-11-22 21:02:38,413 - INFO - Indexing file: test.txt
+2019-11-22 21:02:39,532 - INFO - Indexing file: RH413-RHEL6 4-en-1-20130729.pdf.pdf
+2019-11-22 21:02:52,496 - INFO - Indexing file: RH124-RHEL6 3-en-3-20121001.pdf.pdf
+2019-11-22 21:03:08,363 - INFO - Indexing file: RH254-RHEL7-en-1-20140711.pdf
+2019-11-22 21:03:27,806 - INFO - Indexing file: RH124-RHEL7-en-1-20140606.pdf
+2019-11-22 21:03:48,606 - INFO - Indexing file: RH134-RHEL7-en-1-20140610.pdf
+2019-11-22 21:04:01,104 - INFO - Indexing file: RH135-RHEL6 3-en-3-20121001.pdf.pdf
+2019-11-22 21:04:12,585 - INFO - Indexing file: RH255-RHEL6 3-en-3-20121001.pdf.pdf
+2019-11-22 21:04:25,593 - INFO - Indexing file: ManualAdministracion_PortalBanistmo_v1.0.pdf
+2019-11-22 21:04:25,957 - INFO - Indexing file: ManualAdministracion_PortalBanistmo_v1.2.pdf
+2019-11-22 21:04:26,324 - INFO - Indexing file: portal.txt
+2019-11-22 21:04:37,300 - INFO - Indexing file: Reinicio Gestor.pdf
+2019-11-22 21:04:37,421 - INFO - Indexing file: ConfigurarPutty_BeyondTrust.pdf
+2019-11-22 21:04:37,460 - INFO - Indexing file: Instalacion_WinScp.docx
+2019-11-22 21:04:37,509 - INFO - Indexing file: ConfigurarPutty.txt
+2019-11-22 21:04:37,544 - INFO - Indexing file: Manual Usuario_PasswordSafe.pdf
+2019-11-22 21:04:39,370 - INFO - Indexing file: perfiles.comandos.txt
+2019-11-22 21:04:39,423 - INFO - Indexing file: PTR_switch_servicios.docx
+2019-11-22 21:04:39,548 - INFO - Indexing file: was-Asegurar Consola WAS contra ambientesBC.pdf
+2019-11-22 21:04:39,760 - INFO - Indexing file: liberty.profile.tips1314.pdf
+2019-11-22 21:04:40,827 - INFO - Indexing file: WebSphere Application Server V8 - Security Concepts.pdf
+2019-11-22 21:04:42,141 - INFO - Indexing file: pass.txt
+2019-11-22 21:04:42,151 - INFO - Indexing file: Java Garbage Collection Tuning.pdf
+2019-11-22 21:04:44,190 - INFO - Indexing file: was load balancer.pdf
+2019-11-22 21:04:45,091 - INFO - Indexing file: Garbage collection in WebSphere Application Server part1.pdf
+2019-11-22 21:04:45,422 - INFO - Indexing file: Manual_Menu_iSeries.docx
+2019-11-22 21:04:45,540 - INFO - Indexing file: WSTEPluginLb3.pdf
+2019-11-22 21:04:46,449 - INFO - Indexing file: liberty.profile.sg248170.pdf
+2019-11-22 21:04:53,954 - INFO - Indexing file: WSTE_09_10_08_Paramkusham_Bhalodia.pdf
+2019-11-22 21:04:54,616 - INFO - Indexing file: WAS_Performance_Cookbook.pdf
+2019-11-22 21:05:20,050 - INFO - Indexing file: Actualizar_certificado_celda_WAS(1).pdf
+2019-11-22 21:05:20,403 - INFO - Indexing file: IBM WebSphere ApplicationServer V8 Concepts,Planning, and Design Guide.pdf
+2019-11-22 21:05:45,079 - INFO - Indexing file: WAS - TCP-IP Tutorial andTechnical Overview - gg243376.pdf
+2019-11-22 21:06:13,020 - INFO - Indexing file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:06:13,126 - INFO - Indexing file: WAS8.5 Troubleshooting.pdf
+2019-11-22 21:06:13,482 - INFO - Indexing file: wa8551-va8551xstud - Protected.pdf
+2019-11-22 21:18:10,515 - INFO -  --------- Initiating CLI ----------
+2019-11-22 21:18:15,991 - INFO - criteria: was
+2019-11-22 21:18:15,992 - DEBUG - performing search with criteria: was
+2019-11-22 21:18:16,319 - DEBUG - results found: 20
+2019-11-22 21:18:16,320 - INFO - hists: 20
+2019-11-22 21:18:21,144 - INFO - retrieving from file: liberty.profile.sg248170.pdf
+2019-11-22 21:18:27,976 - INFO - hists: 20
+2019-11-22 21:19:14,114 - INFO -  --------- Initiating CLI ----------
+2019-11-22 21:19:14,981 - INFO - criteria: was
+2019-11-22 21:19:14,982 - DEBUG - performing search with criteria: was
+2019-11-22 21:19:15,588 - DEBUG - results found: 20
+2019-11-22 21:19:15,592 - INFO - hists: 20
+2019-11-22 21:19:18,122 - INFO - retrieving from file: liberty.profile.sg248170.pdf
+2019-11-22 21:19:27,301 - INFO - hists: 20
+2019-11-22 21:20:26,539 - INFO - retrieving from file: IBM WebSphere ApplicationServer V8 Concepts,Planning, and Design Guide.pdf
+2019-11-22 21:20:31,667 - INFO - hists: 20
+2019-11-22 21:22:12,536 - INFO - retrieving from file: IBM WebSphere ApplicationServer V8 Concepts,Planning, and Design Guide.pdf
+2019-11-22 21:22:14,617 - INFO - hists: 20
+2019-11-22 21:24:03,191 - INFO - retrieving from file: Manual_Menu_iSeries.docx
+2019-11-22 21:24:03,302 - INFO - retrieving from file: Manual_Menu_iSeries.docx
+2019-11-22 21:24:03,334 - INFO - retrieving from file: Manual_Menu_iSeries.docx
+2019-11-22 21:24:09,161 - INFO - hists: 20
+2019-11-22 21:24:15,929 - INFO - retrieving from file: PTR_ACT - LDAP - Subir servicios WAS sbbanbld01v .docx
+2019-11-22 21:24:15,989 - INFO - retrieving from file: PTR_ACT - LDAP - Subir servicios WAS sbbanbld01v .docx
+2019-11-22 21:24:16,014 - INFO - retrieving from file: PTR_ACT - LDAP - Subir servicios WAS sbbanbld01v .docx
+2019-11-22 21:24:16,040 - INFO - retrieving from file: PTR_ACT - LDAP - Subir servicios WAS sbbanbld01v .docx
+2019-11-22 21:24:16,060 - INFO - retrieving from file: PTR_ACT - LDAP - Subir servicios WAS sbbanbld01v .docx
+2019-11-22 21:24:16,093 - INFO - retrieving from file: PTR_ACT - LDAP - Subir servicios WAS sbbanbld01v .docx
+2019-11-22 21:24:16,117 - INFO - retrieving from file: PTR_ACT - LDAP - Subir servicios WAS sbbanbld01v .docx
+2019-11-22 21:24:18,616 - INFO - hists: 20
+2019-11-22 21:24:22,520 - INFO - retrieving from file: PTR_ACT - LDAP - Subir servicios WAS sbbanbld01v .docx
+2019-11-22 21:24:29,161 - INFO - hists: 20
+2019-11-22 21:24:33,257 - INFO - retrieving from file: Diseño Areas Infraestructura SVP.docx
+2019-11-22 21:24:33,337 - INFO - retrieving from file: Diseño Areas Infraestructura SVP.docx
+2019-11-22 21:24:33,364 - INFO - retrieving from file: Diseño Areas Infraestructura SVP.docx
+2019-11-22 21:24:33,391 - INFO - retrieving from file: Diseño Areas Infraestructura SVP.docx
+2019-11-22 21:24:33,421 - INFO - retrieving from file: Diseño Areas Infraestructura SVP.docx
+2019-11-22 21:24:46,104 - INFO - criteria: wsrr
+2019-11-22 21:24:46,105 - DEBUG - performing search with criteria: wsrr
+2019-11-22 21:24:46,301 - DEBUG - results found: 20
+2019-11-22 21:24:46,303 - INFO - hists: 20
+2019-11-22 21:24:49,689 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:49,721 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:49,760 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:49,796 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:49,823 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:49,853 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:49,882 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:49,903 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:49,923 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,043 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,068 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,090 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,114 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,134 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,154 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,189 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,209 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,229 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,249 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,276 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,304 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,349 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,376 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,409 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,431 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,455 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,481 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,536 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,568 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,590 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,610 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,629 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,644 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,686 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,709 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,729 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,757 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,779 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,800 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,836 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,854 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,881 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,901 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,918 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,937 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,973 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:50,997 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:51,032 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:51,055 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:51,084 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:51,106 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:51,148 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:51,168 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:51,190 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:51,208 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:51,223 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:51,248 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:55,050 - INFO - hists: 20
+2019-11-22 21:24:56,713 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:56,735 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:56,765 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:56,803 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:56,826 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:56,862 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:56,920 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:56,948 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:56,982 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,013 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,060 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,085 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,133 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,171 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,197 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,230 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,261 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,288 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,331 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,397 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,416 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,434 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,449 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,470 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,489 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,532 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,552 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,573 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,595 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,611 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,632 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,667 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,688 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,721 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,759 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,784 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,806 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,842 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,863 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,896 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,948 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:57,996 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,040 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,135 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,189 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,221 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,268 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,311 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,355 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,428 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,456 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,503 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,537 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,572 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,592 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,631 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,658 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,681 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,705 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,729 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,753 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,790 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,813 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,835 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,855 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,881 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:24:58,911 - INFO - retrieving from file: MANUAL_DE_OPERACIONES.docx
+2019-11-22 21:25:21,561 - INFO - criteria: sterling
+2019-11-22 21:25:21,561 - DEBUG - performing search with criteria: sterling
+2019-11-22 21:25:21,622 - DEBUG - results found: 0
+2019-11-22 21:25:21,625 - INFO - hists: 0
+2019-11-22 21:25:33,833 - INFO - criteria: red
+2019-11-22 21:25:33,833 - DEBUG - performing search with criteria: red
+2019-11-22 21:25:33,910 - DEBUG - results found: 20
+2019-11-22 21:25:33,913 - INFO - hists: 20
+2019-11-22 21:25:45,882 - INFO - retrieving from file: IBM TransferSkills Presentation WAS8.5.pdf
+2019-11-22 21:26:37,370 - INFO - criteria: weblogic
+2019-11-22 21:26:37,371 - DEBUG - performing search with criteria: weblogic
+2019-11-22 21:26:37,548 - DEBUG - results found: 2
+2019-11-22 21:26:37,552 - INFO - hists: 2
+2019-11-22 21:27:13,406 - INFO - retrieving from file: IBM WebSphere ApplicationServer V8 Concepts,Planning, and Design Guide.pdf
+2019-11-22 21:27:27,690 - INFO - criteria: ventas
+2019-11-22 21:27:27,691 - DEBUG - performing search with criteria: ventas
+2019-11-22 21:27:27,820 - DEBUG - results found: 0
+2019-11-22 21:27:27,822 - INFO - hists: 0
+2019-11-22 21:27:40,557 - INFO - criteria: Ventas
+2019-11-22 21:27:40,559 - DEBUG - performing search with criteria: Ventas
+2019-11-22 21:27:40,617 - DEBUG - results found: 0
+2019-11-22 21:27:40,620 - INFO - hists: 0
+2019-11-22 21:27:52,426 - INFO - criteria: Mercado
+2019-11-22 21:27:52,427 - DEBUG - performing search with criteria: Mercado
+2019-11-22 21:27:52,480 - DEBUG - results found: 0
+2019-11-22 21:27:52,484 - INFO - hists: 0
+2019-11-22 21:27:55,178 - INFO - criteria: Divisas
+2019-11-22 21:27:55,179 - DEBUG - performing search with criteria: Divisas
+2019-11-22 21:27:55,223 - DEBUG - results found: 0
+2019-11-22 21:27:55,227 - INFO - hists: 0
+2019-11-22 21:28:50,689 - INFO - criteria: reporteria
+2019-11-22 21:28:50,691 - DEBUG - performing search with criteria: reporteria
+2019-11-22 21:28:50,829 - DEBUG - results found: 0
+2019-11-22 21:28:50,831 - INFO - hists: 0
+2019-11-22 21:28:53,547 - INFO - criteria: reporteróa
+2019-11-22 21:28:53,550 - DEBUG - performing search with criteria: reporteróa
+2019-11-22 21:28:53,599 - DEBUG - results found: 0
+2019-11-22 21:28:53,603 - INFO - hists: 0
+2019-11-22 21:28:55,901 - INFO - criteria: reporte
+2019-11-22 21:28:55,901 - DEBUG - performing search with criteria: reporte
+2019-11-22 21:28:55,997 - DEBUG - results found: 1
+2019-11-22 21:28:55,999 - INFO - hists: 1
+2019-11-22 21:28:58,625 - INFO - retrieving from file: TIPS-BROKER-MQ.txt
+2019-11-22 21:28:58,639 - INFO - retrieving from file: TIPS-BROKER-MQ.txt
+2019-11-22 21:28:58,642 - INFO - retrieving from file: TIPS-BROKER-MQ.txt
+2019-11-22 21:28:58,645 - INFO - retrieving from file: TIPS-BROKER-MQ.txt
+2019-11-22 21:28:58,649 - INFO - retrieving from file: TIPS-BROKER-MQ.txt
+2019-11-22 21:29:22,043 - INFO - criteria: caballero
+2019-11-22 21:29:22,043 - DEBUG - performing search with criteria: caballero
+2019-11-22 21:29:22,115 - DEBUG - results found: 6
+2019-11-22 21:29:22,119 - INFO - hists: 6
+2019-11-22 21:29:25,099 - INFO - retrieving from file: test.docx
+2019-11-22 21:40:22,061 - INFO -  --------- Initiating CLI ----------
+2019-11-22 21:40:28,178 - INFO - criteria: reinicio
+2019-11-22 21:40:28,178 - DEBUG - performing search with criteria: reinicio
+2019-11-22 21:40:28,378 - DEBUG - results found: 5
+2019-11-22 21:40:28,380 - INFO - hists: 5
+2019-11-22 21:40:30,370 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,390 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,409 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,435 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,452 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,469 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,483 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,508 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,523 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,542 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,554 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,572 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,586 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,607 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,618 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,639 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,650 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,673 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,686 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,705 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,717 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,733 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,748 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,769 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,782 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,815 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,838 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,852 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,866 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,890 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,902 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,918 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,933 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,950 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,964 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,980 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:30,998 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,022 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,035 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,048 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,065 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,077 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,095 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,108 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,124 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,144 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,155 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,176 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,190 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,220 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,233 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,260 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,275 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,289 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,301 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,313 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,324 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,339 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,350 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,361 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,376 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,395 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,406 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,423 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,434 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,446 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,462 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,475 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,488 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,498 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,509 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,521 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,531 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,541 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,554 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,576 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,589 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,608 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,620 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,636 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,651 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,677 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:31,692 - INFO - retrieving from file: Actualizar_certificado_celda_WAS.docx
+2019-11-22 21:40:52,258 - INFO - criteria: 3
+2019-11-22 21:40:52,258 - DEBUG - performing search with criteria: 3
+2019-11-22 21:40:52,381 - DEBUG - results found: 0
+2019-11-22 21:40:52,382 - INFO - hists: 0
+2019-11-22 21:40:57,074 - INFO - criteria: brazo
+2019-11-22 21:40:57,074 - DEBUG - performing search with criteria: brazo
+2019-11-22 21:40:57,128 - DEBUG - results found: 1
+2019-11-22 21:40:57,129 - INFO - hists: 1
+2019-11-22 21:40:59,970 - INFO - retrieving from file: test.docx
